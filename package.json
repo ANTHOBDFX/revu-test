@@ -8,14 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "@revolut/checkout": "^1.2.0", // Dernière version publiée
-    "country-list": "^2.2.0", // Déjà à jour
-    "isomorphic-fetch": "^3.0.0", // Version récente
-    "next": "^13.4.12", // Dernière version stable
-    "pouchdb": "^8.0.1", // Dernière version stable
-    "pouchdb-adapter-memory": "^8.0.1", // Dernière version stable
-    "react": "^18.2.0", // Compatible avec Next.js 13+
-    "react-dom": "^18.2.0" // Compatible avec React 18
+    "@revolut/checkout": "^1.2.0", 
+    "country-list": "^2.2.0", 
+    "isomorphic-fetch": "^3.0.0", 
+    "next": "^13.4.12", 
+    "pouchdb": "^8.0.1", 
+    "pouchdb-adapter-memory": "^8.0.1", 
+    "react": "^18.2.0", 
+    "react-dom": "^18.2.0" 
   },
   "license": "ISC",
   "keywords": [],
